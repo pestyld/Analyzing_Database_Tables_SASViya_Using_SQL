@@ -1,7 +1,7 @@
-# SAS Explore 2023 - Analyzing Database Tables in SAS Viya Using SQL
+# Analyzing Database Tables in SAS Viya Using SQL
 
 ## Description
-This Hands On Workshop (HOW) was presented at SAS Explore 2023 using an Oracle database. The techniques are similar when using other databases.
+This Hands On Workshop (HOW) was presented using an Oracle database. The techniques are similar when using other databases.
 
 The data is too large and not provided. You can create the fake data for this workshop by modifying the **00 - cre8data.sas program**. Modify lines 27-31 to create the fake data in your database. Write access is required.
 
