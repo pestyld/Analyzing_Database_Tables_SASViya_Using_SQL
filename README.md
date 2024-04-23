@@ -1,9 +1,16 @@
 # Analyzing Database Tables in SAS Viya Using SQL
 
 ## Description
-This Hands On Workshop (HOW) was presented using an Oracle database. The techniques are similar when using other databases.
+Discover how to seamlessly connect with databases through SAS/ACCESS engines and SAS Viya Data connectors in this workshop. Gain insights into SAS's execution of code within databases, processing locations, and techniques for optimizing efficiency when working with database tables using SAS.
 
-The data is too large and not provided. You can create the fake data for this workshop by modifying the **00 - cre8data.sas program**. Modify lines 27-31 to create the fake data in your database. Write access is required.
+## Introduction
+You will learn how to
+•	Establish connections to databases using SAS/ACCESS (Compute server).
+•	Establish connections to databases using SAS Viya Data Connectors (CAS Server).
+•	Gain insights into processing locations by examining the log.
+•	Use implicit pass through to allow the database to handle certain operations to optimize performance and reduce data movement between the database and SAS.
+•	Use explicit pass through to execute native database SQL queries to leverage the full capabilities of the underlying database system.
+
 
 ### Modify the following statement:
 The demonstration environment uses the following username and password to the Oracle database. You will had to modify yours accordingly.
